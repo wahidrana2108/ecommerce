@@ -1,3 +1,16 @@
-.device{
-    col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-2;
+.container{
+    margin-bottom: 100px;
+}
+
+.orange-background{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 120px;
+}
+
+.price{
+    color: coral;
 }
