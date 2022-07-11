@@ -2,6 +2,10 @@
     margin-bottom: 100px;
 }
 
+.bottom-margin{
+    margin-bottom: 25px;
+}
+
 .orange-background{
     background-color: #fceae8;
     border-radius: 10px;
